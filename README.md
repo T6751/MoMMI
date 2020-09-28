@@ -6,3 +6,6 @@ MoMMI is the bot that is used on the official [/vg/station13](http://ss13.moe/) 
 
 - Python 3.6.
 
+```
+pip install -r requirements.txt
+```
